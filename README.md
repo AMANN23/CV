@@ -49,7 +49,7 @@ As a Mechanical Engineering graduate I feel I have been through a vigorous cours
 
 #### Communication & Teamwork
 
-#### Growth Mindset and Persistence
+#### Growth Mindset & Persistence
 
 #### Proactive
 
