@@ -55,6 +55,8 @@ As a Mechanical Engineering graduate I feel I have been through a vigorous cours
 
 ## Education
 
+## Proactive
+
 #### Makers Academy (January 2023 to June 2023)
 - Built full-stack and front-end web applications both individually and as a team using a variety of technologies including but not limited to: Ruby, JavaScript, MongoDB, Express.js, React.js, Node.js, HTML and CSS and design patterns such as MVC, repository and dependency injection.
 - Carried out test-driven development (TDD) using jest and RSpec which comprised of writing unit, integration, and feature tests.
