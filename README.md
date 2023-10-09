@@ -6,7 +6,7 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Career Companion**         | A webapp to do x. | React, Jest, etc. |
+| **Career Companion**         | An employment search tool that enables users to monitor their job applications, utilising Open AI to generate tailored cover letters and provide simulated interview question practice. | MongoDB, Express.js, React,Node.js, OpenAI, Jest, Cypress, Tailwind|
 | **Chitter App**              | A webapp to do y. | Ruby              |
 | **Bank Tech Test**           | A webapp to do y. | Ruby              |
 | **MakersBnB**                | A webapp to do y. | Ruby              |
