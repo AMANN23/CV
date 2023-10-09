@@ -90,6 +90,6 @@ I honed my communication skills while completing my thesis at university, which 
 ## Hobbies
 
 - Avid gym goer 💪
-- Sport Lover: Football ⚽, Basketball 🏀, Tennis 🎾.
+- Sports Lover: Football ⚽ (Can name every team to win in the Champions League... not in order i'm not that sad), Basketball 🏀, Tennis 🎾.
 - Car lover 🏎
 - Make the greatest S'mores you will ever taste 😋
