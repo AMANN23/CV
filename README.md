@@ -43,9 +43,15 @@ _Warehouse Operative_
 - Selling over 40+ cars all with a sizeable profit and no callbacks thus generating £1000s in profit.
 ## Skills
 
+#### Problem Solving
 
 As a Mechanical Engineering graduate I feel I have been through a vigorous course that has prepared me for all walks of life. I believe I possess an analytically thinking and problem-solving mindset. Mechanical engineering involves analysing complex systems and solving intricate problems. These analytical skills are directly transferable to software development, where you need to understand and solve complex coding challenges and optimize algorithms efficiently. Mathematics and learning algorithms is also strongly needed in the software engineering world and during my university degree I was exposed to a high level mathematical techniques which give me a good fundamental understanding of the mathematics needed to succeed in a software engineering role. 
 
+#### Communication
+
+#### Teamwork
+
+#### Growth Mindset and Persistence
 
 ## Education
 
