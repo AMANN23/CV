@@ -6,8 +6,11 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Career Companion**         | A webapp to do x. | React, Jest, etc. |
+| **Chitter App**              | A webapp to do y. | Ruby              |
+| **Bank Tech Test**           | A webapp to do y. | Ruby              |
+| **MakersBnB**                | A webapp to do y. | Ruby              |
+| **Acebook**                  | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
