@@ -14,8 +14,8 @@
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**A6 Motors** (January 2022 to February 2023)  
+_Assistant Automotive Technician, Administrator & Automobile Salesman_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
