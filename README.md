@@ -1,6 +1,6 @@
 <h1 align="center">Adnan Mann</h1>
 
-<p align="center">Recent Makers Academy Software Engineering graduate with a STEM degree in BEng Mechanical Engineering with a passion in crafting full-stack web and mobile applications. With a desire to be at the forefront of innovation and progress, the avenue of pursuing a career in the technology industry is what I believe will be best suited for my skillset. Strong fundamentals in mathematics, physics, data analysis and programming skills with the mentality of starting from the bottom and building a successful career long term. 5+ years of successful online advertising experience on platforms such as AutoTrader and Gumtree, accumulating £1000s of profits in car sales.</p>
+<p align="center">Recent Makers Academy Software Engineering graduate with a STEM degree in Mechanical Engineering BEng with a passion in crafting full-stack web and mobile applications. With a desire to be at the forefront of innovation and progress, the avenue of pursuing a career in the technology industry is what I believe will be best suited for my skillset. Strong fundamentals in mathematics, physics, data analysis and programming skills with the mentality of starting from the bottom and building a successful career long term. 5+ years of successful online advertising experience on platforms such as AutoTrader and Gumtree, accumulating £1000s of profits in car sales.</p>
 
 ## Projects
 
