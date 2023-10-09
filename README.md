@@ -7,7 +7,7 @@
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Career Companion**         | An employment search tool that enables users to monitor their job applications, utilising Open AI to generate tailored cover letters and provide simulated interview question practice. | MongoDB, Express.js, React,Node.js, OpenAI, Jest, Cypress, Tailwind|
-| **Chitter App**              | A full stack application cloning the famous social media app Twitter (Or should I say X) | Ruby              |
+| **Chitter App**              | A full stack application cloning the famous social media app Twitter (Or should I say X) | TypeScript, React, nextJs ,MongoDB, TailwindCSS|
 | **Bank Tech Test**           | A webapp to do y. | Ruby              |
 | **MakersBnB**                | A clone of AirBnB Which allows users to list and rent spaces | Ruby              |
 | **Acebook**                  | An application cloning Facebook using the MERN stack. Built within two weeks with a team of six individuals. Following agile methodologies and git workflow | JavaScript, MongoDB, Express.js, React,Node.js, Jest, Cypress|
