@@ -58,15 +58,21 @@ I honed my communication skills while completing my thesis at university, which 
 - Participated in emotional intelligence workshops (working on topics such as communication, teamwork, empathy, and feedback).
 - Completed Three Projects (Hotel Booking App, Facebook Clone using the MERN Stack and a Career Companion App with an integrated Open AI API that can generate resumes, CVs, and Cover letters)
 
-#### Your University / College (start_date to end_date)
+#### University of Herfordshire (September 2016 to September 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Achieved a grade of Upper Second Class (2:1) graduating with an honours degree
+- Fundamental elements of a modern engineer including computer-aided engineering, thermodynamics and fluids analysis, coding skills and engineering mathematics.
+- Highly advanced analytical skills with the capability to balance a heavy workload and prioritise appropriately.
+- Ability to examine complex datasets drawing conclusions appropriate to the problems at hand.
+- Sophisticated written and verbal communication skills through the production of essays and reports adhering to strict guidelines and delivering presentations to large groups.
+- Competent in many programmes including MS Office with advanced Excel knowledge, ANSYS, CATIA, MATLAB/JavaScript, Python, Simulink, Autodesk Inventor and Star CCM+.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Extended Degree in Engineering and Technology – First Class (70%)
+- A Level Physics AS Level Mathematics
+- Extended BTEC Medical Science
+- 10 GCSEs including Mathematics, Triple Science and English
 
 ## Hobbies
 
