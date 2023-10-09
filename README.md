@@ -48,14 +48,15 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2023 to June 2023)
+- Built full-stack and front-end web applications both individually and as a team using a variety of technologies including but not limited to: Ruby, JavaScript, MongoDB, Express.js, React.js, Node.js, HTML and CSS and design patterns such as MVC, repository and dependency injection.
+- Carried out test-driven development (TDD) using jest and RSpec which comprised of writing unit, integration, and feature tests.
+- Developed a strong foundation in object-oriented programming (OOP) in both Ruby and JavaScript.
+- Designed and implemented SQL and NoSQL databases; built RESTful APIs.
+- Now able to learn new technologies such as Python and Java at a quicker pace due to the learning techniques honed during the program.
+- Followed agile practices including scrum and kanban. Frequently collaborated with others during team projects and pair programming.
+- Participated in emotional intelligence workshops (working on topics such as communication, teamwork, empathy, and feedback).
+- Completed Three Projects (Hotel Booking App, Facebook Clone using the MERN Stack and a Career Companion App with an integrated Open AI API that can generate resumes, CVs, and Cover letters)
 
 #### Your University / College (start_date to end_date)
 
