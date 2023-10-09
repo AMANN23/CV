@@ -13,8 +13,8 @@
 | [Career Companion](https://github.com/AMANN23/career_companion)         | An employment search tool that enables users to monitor their job applications, utilising Open AI to generate tailored cover letters and provide simulated interview question practice. | MongoDB, Express.js, React,Node.js, OpenAI, Jest, Cypress, Tailwind|
 | [Chitter App](https://github.com/AMANN23/Chitter-App)              | A full stack application cloning the famous social media app Twitter (Or should I say X) | TypeScript, React, nextJs ,MongoDB, TailwindCSS|
 | [Bank Tech Test](https://github.com/AMANN23/bank-tech-test)| A banking application that can run in the command line. The user will be able to deposit, withdraw and see bank statements. The application was coded in JavaScript. | JavaScript|
-| **MakersBnB**                | A clone of AirBnB Which allows users to list and rent spaces | Ruby, RSpec, HTML, CSS, PostgreSQL|
-| **Acebook**                  | An application cloning Facebook using the MERN stack. Built within two weeks with a team of six individuals. Following agile methodologies and git workflow | JavaScript, MongoDB, Express.js, React,Node.js, Jest, Cypress|
+| [MakersBnB](https://github.com/AMANN23/MakersBNB)                | A clone of AirBnB Which allows users to list and rent spaces | Ruby, RSpec, HTML, CSS, PostgreSQL|
+| [Acebook](https://github.com/AMANN23/acebook-earth)                  | An application cloning Facebook using the MERN stack. Built within two weeks with a team of six individuals. Following agile methodologies and git workflow | JavaScript, MongoDB, Express.js, React,Node.js, Jest, Cypress|
 
 ## Work Experience
 
