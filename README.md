@@ -89,4 +89,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Avid gym goer 💪
+- Sport Lover: Football ⚽, Basketball 🏀, Tennis 🎾.
+- Car lover 🏎
+- Make the greatest S'mores you will ever taste 😋
