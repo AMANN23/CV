@@ -19,11 +19,21 @@ _Assistant Automotive Technician, Administrator & Automobile Salesman_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self-Employed Used Car Trader** (July 2014 to January 2020)  
+_Used Cars Trader_
 
-- Any experience relevent to software development
+- Constant monitoring of the used car market for the best valued opportunities.
+- Advertising expertly ensuring the vehicle is always in showroom ready condition.
+- Serving and assisting customers, using comprehensive vehicle knowledge to anticipate and meet their requirements.
+- Selling over 40+ cars all with a sizeable profit and no callbacks thus generating £1000s in profit.
 
+**AMazon Warehouse** (June 2018 to October 2018, October 2021 to January 2022)  
+_Warehouse Operative_
+
+- Constant monitoring of the used car market for the best valued opportunities.
+- Advertising expertly ensuring the vehicle is always in showroom ready condition.
+- Serving and assisting customers, using comprehensive vehicle knowledge to anticipate and meet their requirements.
+- Selling over 40+ cars all with a sizeable profit and no callbacks thus generating £1000s in profit.
 ## Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
