@@ -14,10 +14,13 @@
 
 ## Work Experience
 
-**A6 Motors** (January 2022 to February 2023)  
+**MANN AutoCentre/A6 Motors** (July 2010 to July 2019/January 2022 to February 2023)  
 _Assistant Automotive Technician, Administrator & Automobile Salesman_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Interacted with customers professionally by phone, email, and in-person to deliver accurate service information.
+- Servicing vehicles making sure the customers’ needs are met to a consummate standard.
+- Organising and structuring the workshop floor daily consequently boosting productivity levels to a higher standard.
+- Stock management and product quality inspection, completing all tasks within required timeframes.
 
 **Self-Employed Used Car Trader** (July 2014 to January 2020)  
 _Used Cars Trader_
@@ -27,7 +30,7 @@ _Used Cars Trader_
 - Serving and assisting customers, using comprehensive vehicle knowledge to anticipate and meet their requirements.
 - Selling over 40+ cars all with a sizeable profit and no callbacks thus generating £1000s in profit.
 
-**AMazon Warehouse** (June 2018 to October 2018, October 2021 to January 2022)  
+**Amazon Warehouse** (June 2018 to October 2018, October 2021 to January 2022)  
 _Warehouse Operative_
 
 - Constant monitoring of the used car market for the best valued opportunities.
