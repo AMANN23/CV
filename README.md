@@ -49,9 +49,15 @@ As a Mechanical Engineering graduate I feel I have been through a vigorous cours
 
 #### Communication & Teamwork
 
+Starting a side business at a young age really helped my communication skills. Engaging in conversation with customers from all walks of life has given me the soft skills that enable me to build strong working  relationships. This translated well when completing my degree as I achieved high marks in modules that needed teamwork to succeeed.  
+
 #### Growth Mindset & Persistence
 
+Transitioning into a career where programming is key, is an indication of my growth mindset. A growth mindset is a belief that abilities and intelligence can be developed and improved over time through effort, dedication, and learning. With the amount of resources online, a career as a software engineer is the career that suits my mindset.
+
 #### Proactive
+
+During my time at Makers Academy I wanted to squeeze as much information out from my peers and seniors as I possbly could. If I noticed anyone had a particular set of skills in frontend or backend technologies I would, without hestiation, reach out for advice on how to up skill. I constantly want to improve and learn so I will always be proactive and search out for advice in the hopes of making myself a better engineer. Instead of just waiting on being told what to do, if I can help and learn in any way I will as being idle is against my philosophy in life 
 
 ## Education
 
