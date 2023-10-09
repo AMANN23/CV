@@ -53,9 +53,9 @@ As a Mechanical Engineering graduate I feel I have been through a vigorous cours
 
 #### Growth Mindset and Persistence
 
-## Education
+#### Proactive
 
-## Proactive
+## Education
 
 #### Makers Academy (January 2023 to June 2023)
 - Built full-stack and front-end web applications both individually and as a team using a variety of technologies including but not limited to: Ruby, JavaScript, MongoDB, Express.js, React.js, Node.js, HTML and CSS and design patterns such as MVC, repository and dependency injection.
