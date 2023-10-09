@@ -91,5 +91,6 @@ I honed my communication skills while completing my thesis at university, which 
 
 - Avid gym goer 💪
 - Sports Lover: Football ⚽ (Can name every team to win the UEFA Champions League...not in order i'm not that sad), Basketball 🏀, Tennis 🎾.
+- Love a good documentary ranging from in any genre from Sports to History.
 - Car lover 🏎
-- Make the greatest S'mores you will ever taste 😋
+- Make the greatest S'mores you will ever taste! 😋
