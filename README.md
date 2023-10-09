@@ -1,8 +1,8 @@
 <h1 align="center">Adnan Mann</h1>
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/adnanmann/">LinkedIn</a>
 </div>
-
+<br>
 
 <p align="center">Recent Makers Academy Software Engineering graduate with a STEM degree in (BEng) Mechanical Engineering with a passion in crafting full-stack web and mobile applications. With a desire to be at the forefront of innovation and progress, the avenue of pursuing a career in the technology industry is what I believe will be best suited for my skillset. Strong fundamentals in mathematics, physics, data analysis and programming skills with the mentality of starting from the bottom and building a successful career long term. 5+ years of successful online advertising experience on platforms such as AutoTrader and Gumtree, accumulating £1000s of profits in car sales.</p>
 
@@ -10,9 +10,9 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Career Companion**         | An employment search tool that enables users to monitor their job applications, utilising Open AI to generate tailored cover letters and provide simulated interview question practice. | MongoDB, Express.js, React,Node.js, OpenAI, Jest, Cypress, Tailwind|
-| **Chitter App**              | A full stack application cloning the famous social media app Twitter (Or should I say X) | TypeScript, React, nextJs ,MongoDB, TailwindCSS|
-| **Bank Tech Test**           | A banking application that can run in the command line. The user will be able to deposit, withdraw and see bank statements. The application was coded in JavaScript. | JavaScript|
+| [Career Companion](https://github.com/AMANN23/career_companion)         | An employment search tool that enables users to monitor their job applications, utilising Open AI to generate tailored cover letters and provide simulated interview question practice. | MongoDB, Express.js, React,Node.js, OpenAI, Jest, Cypress, Tailwind|
+| [Chitter App](https://github.com/AMANN23/Chitter-App)              | A full stack application cloning the famous social media app Twitter (Or should I say X) | TypeScript, React, nextJs ,MongoDB, TailwindCSS|
+| [Bank Tech Test](https://github.com/AMANN23/bank-tech-test)| A banking application that can run in the command line. The user will be able to deposit, withdraw and see bank statements. The application was coded in JavaScript. | JavaScript|
 | **MakersBnB**                | A clone of AirBnB Which allows users to list and rent spaces | Ruby, RSpec, HTML, CSS, PostgreSQL|
 | **Acebook**                  | An application cloning Facebook using the MERN stack. Built within two weeks with a team of six individuals. Following agile methodologies and git workflow | JavaScript, MongoDB, Express.js, React,Node.js, Jest, Cypress|
 
