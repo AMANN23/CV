@@ -90,7 +90,7 @@ During my time at Makers Academy I wanted to squeeze as much information out fro
 ## Hobbies
 
 - Avid gym goer 💪
-- Sports Lover: Football ⚽ (Can name every team to win the UEFA Champions League...not in order i'm not that sad), Basketball 🏀, Tennis 🎾.
+- Sports Lover: Football ⚽ (Can name every team to win the UEFA Champions League...not in order, i'm not that sad), Basketball 🏀, Tennis 🎾.
 - Love a good documentary in any genre ranging from from Sports to History.
 - Car lover 🏎
 - Make the greatest S'mores you will ever taste! 😋
